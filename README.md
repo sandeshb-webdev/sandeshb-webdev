@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeshb-webdev
 - 👀 I’m interested in web development ..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on wordpress theme development
 - 📫  ...
 
 <!---
